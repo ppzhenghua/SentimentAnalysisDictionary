@@ -1,0 +1,2 @@
+# SentimentAnalysisDictionary
+中文情感词典汇总（台湾大学NTUSD简体中文情感词典，清华大学李军中文褒贬义词典，知网Hownet情感词典等）
